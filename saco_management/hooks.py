@@ -1,0 +1,6 @@
+app_name = "saco_management"
+app_title = "SACO Management"
+app_publisher = "SACO"
+app_description = "Custom ERPNext extensions for SACO"
+app_email = "admin@saco.example"
+app_license = "mit"

@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://github.com/frappe/erpnext",
+    "branch": "version-16"
+  },
+  {
+    "url": "https://x-access-token:ghp_REPLACE_ME@github.com/ahmed-ahsan2001/saco_erp",
+    "branch": "main"
+  }
+]

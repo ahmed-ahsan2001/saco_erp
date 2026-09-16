@@ -1,0 +1,3 @@
+saco.env
+.env
+*.env.local
