@@ -1,41 +1,28 @@
-# SACO ERP
+# SACO ERP — deploy configs
 
-Single repo for **SACO** — deploy scripts + `saco_management` Frappe app.
+Deploy configs for **SACO** live in this monorepo folder (`saco/`), same as `hamza/` for printing.
 
-Synced to `~/saco_erp/` (GitHub: [saco_erp](https://github.com/ahmed-ahsan2001/saco_erp.git)).
+| File (repo root) | Purpose |
+|------------------|---------|
+| `apps.json` | GitHub PAT + `saco_erp` repo URL for Docker build |
+| `saco.env` | Site name, DB password, port |
 
-Same pattern as Hamza printing: local folder `~/printing_management-ERP`, GitHub repo `printing_management` — one repo holds the app; deploy configs for SACO live in the same `saco_erp` repo.
-
-## Repo layout (`~/saco_erp`)
-
-```
-saco_erp/
-  update-app.sh          # deploy / update script
-  DEPLOY.md              # production guide
-  env.example            # copy to saco.env in monorepo root
-  apps.json              # GitHub PAT for Docker build
-  pyproject.toml         # Frappe app package
-  saco_management/       # app source (hooks, doctypes, setup, …)
-```
-
-## Development (monorepo)
-
-Edit app code in `apps/saco_management/` and deploy configs in `saco/`, then sync both into `~/saco_erp/`:
+## VPS deploy
 
 ```bash
-rsync -a --exclude '__pycache__' --exclude '.DS_Store' --exclude '.git' \
-  apps/saco_management/ ~/saco_erp/
-
-rsync -a --exclude '__pycache__' --exclude '.DS_Store' --exclude '.git' \
-  saco/ ~/saco_erp/
+git clone https://github.com/ahmed-ahsan2001/hamza-enterprises-ERP-NEXT.git
+cd hamza-enterprises-ERP-NEXT
+cp saco/env.example saco.env && nano saco.env
+nano apps.json   # GitHub PAT for saco_erp
+bash saco/update-app.sh
 ```
 
-## Deploy
+See [DEPLOY.md](./DEPLOY.md).
+
+## Dev sync (Mac)
 
 ```bash
-cd ~/hamza-enterprises-ERP-NEXT
-cp saco/env.example saco.env   # first time only
-ENV_FILE=saco.env bash ~/saco_erp/update-app.sh
+rsync -a --exclude '.git' apps/saco_management/ ~/saco_erp/
+rsync -a --exclude '.git' saco/ ~/saco_erp/
+cd ~/saco_erp && git add . && git commit && git push
 ```
-
-See [DEPLOY.md](./DEPLOY.md) for first-time site creation and troubleshooting.

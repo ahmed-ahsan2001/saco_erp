@@ -1,37 +1,27 @@
 #!/usr/bin/env bash
 # Update SACO production after pushing saco_erp to GitHub.
-# Run from frappe_docker repo root:
-#   ENV_FILE=saco.env bash ~/saco_erp/update-app.sh
+# Run on the VPS from the frappe_docker repo root (same pattern as hamza/update-app.sh):
+#   bash saco/update-app.sh
 set -euo pipefail
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$ROOT"
+
 ENV_FILE="${ENV_FILE:-saco.env}"
-
-if [[ -f "$ENV_FILE" ]]; then
-	set -a
-	# shellcheck disable=SC1090
-	source "$ENV_FILE"
-	set +a
-elif [[ -f "$SCRIPT_DIR/../saco.env" ]]; then
-	set -a
-	# shellcheck disable=SC1090
-	source "$SCRIPT_DIR/../saco.env"
-	set +a
-fi
-
-FRAPPE_DOCKER_ROOT="${FRAPPE_DOCKER_ROOT:-$HOME/hamza-enterprises-ERP-NEXT}"
-FRAPPE_DOCKER_ROOT="${FRAPPE_DOCKER_ROOT/#\~/$HOME}"
-cd "$FRAPPE_DOCKER_ROOT"
-
-if [[ ! -f compose.yaml ]]; then
-	echo "Missing compose.yaml in $FRAPPE_DOCKER_ROOT — clone hamza-enterprises-ERP-NEXT first."
+if [[ ! -f "$ENV_FILE" ]]; then
+	echo "Missing $ENV_FILE — copy saco/env.example to saco.env and configure it first."
 	exit 1
 fi
+
+set -a
+# shellcheck disable=SC1090
+source "$ENV_FILE"
+set +a
 
 SITE="${FRAPPE_SITE_NAME_HEADER:?Set FRAPPE_SITE_NAME_HEADER in saco.env}"
 PROJECT="${COMPOSE_PROJECT_NAME:-saco}"
 COMPOSE_FILE="${COMPOSE_FILE:-/opt/saco/docker-compose.yml}"
-APPS_JSON="${APPS_JSON:-saco/apps.json}"
+APPS_JSON="${APPS_JSON:-apps.json}"
 IMAGE="${CUSTOM_IMAGE:-saco-erpnext}:${CUSTOM_TAG:-16}"
 
 if [[ ! -f "$APPS_JSON" ]]; then

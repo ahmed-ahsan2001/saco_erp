@@ -65,7 +65,7 @@ echo
 echo "=== Quick fixes to try ==="
 cat <<EOF
 1. If containers are Exited/Created:
-   ENV_FILE=$ENV_FILE bash ~/saco_erp/update-app.sh
+   bash saco/update-app.sh
 
 2. If port $PORT closed in ufw:
    sudo ufw allow ${PORT}/tcp
