@@ -226,15 +226,6 @@
   },
   {
     "brand": "FIABILA",
-    "item_code": "FL038N",
-    "item_name": "BEAUTY GEL 92% ALOEVERA (JAR)",
-    "net_weight": "150gm",
-    "carton_packing": "",
-    "price": 270.0,
-    "barcode": "6928577120386"
-  },
-  {
-    "brand": "FIABILA",
     "item_code": "FL041",
     "item_name": "GOLD COLLAGEN CRYSTAL MASK (JAR)",
     "net_weight": "150gm",
@@ -2338,14 +2329,5 @@
     "carton_packing": "",
     "price": 590.0,
     "barcode": "8859362516689"
-  },
-  {
-    "brand": "YC",
-    "item_code": "Updated as on",
-    "item_name": "2026-07-28 00:00:00",
-    "net_weight": "",
-    "carton_packing": "",
-    "price": 0,
-    "barcode": ""
   }
 ]

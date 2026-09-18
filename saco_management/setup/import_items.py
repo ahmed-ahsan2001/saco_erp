@@ -42,10 +42,15 @@ def run(
 	ensure_brand_groups({row["brand"] for row in rows})
 	price_list = ensure_selling_price_list(company)
 
-	created = updated = skipped = 0
+	created = updated = skipped = barcode_skipped = 0
+	used_barcodes: set[str] = set()
 	for row in rows:
-		action = _upsert_item(row, company=company, update_existing=update_existing)
+		action, bc_skipped = _upsert_item(
+			row, company=company, update_existing=update_existing, used_barcodes=used_barcodes
+		)
 		_upsert_item_price(row, price_list, company)
+		if bc_skipped:
+			barcode_skipped += 1
 		if action == "created":
 			created += 1
 		elif action == "updated":
@@ -58,6 +63,7 @@ def run(
 		"created": created,
 		"updated": updated,
 		"skipped": skipped,
+		"barcode_skipped": barcode_skipped,
 		"total": len(rows),
 	}
 	print(result)  # visible in bench execute output on VPS
@@ -71,8 +77,21 @@ def _load_bundled_rows() -> list[dict]:
 			"Push the latest saco_erp repo and rebuild the Docker image."
 		)
 	rows = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+	rows = _dedupe_rows(rows)
 	print(f"Loaded {len(rows)} rows from {DATA_FILE}")
 	return rows
+
+
+def _dedupe_rows(rows: list[dict]) -> list[dict]:
+	seen: set[str] = set()
+	deduped: list[dict] = []
+	for row in rows:
+		code = row.get("item_code")
+		if not code or code in seen:
+			continue
+		seen.add(code)
+		deduped.append(row)
+	return deduped
 
 
 def _parse_xlsx(xlsx_path: str, brand: str | None = None, sheet_name: str | None = None) -> list[dict]:
@@ -201,7 +220,20 @@ def _has_custom_field(fieldname: str) -> bool:
 	return bool(frappe.db.exists("Custom Field", {"dt": "Item", "fieldname": fieldname}))
 
 
-def _upsert_item(row: dict, company: str, update_existing: bool) -> str:
+def _barcode_available(barcode: str, item_code: str, used_barcodes: set[str]) -> bool:
+	if not barcode:
+		return False
+	if barcode in used_barcodes:
+		return False
+	existing_item = frappe.db.get_value("Item Barcode", {"barcode": barcode}, "parent")
+	if existing_item and existing_item != item_code:
+		return False
+	return True
+
+
+def _upsert_item(
+	row: dict, company: str, update_existing: bool, used_barcodes: set[str]
+) -> tuple[str, bool]:
 	item_code = row["item_code"]
 	fields = {
 		"item_name": row["item_name"],
@@ -218,27 +250,31 @@ def _upsert_item(row: dict, company: str, update_existing: bool) -> str:
 	if _has_custom_field("carton_packing"):
 		fields["carton_packing"] = row.get("carton_packing") or ""
 
+	barcode = (row.get("barcode") or "").strip()
+	barcode_skipped = bool(barcode and not _barcode_available(barcode, item_code, used_barcodes))
+
 	if frappe.db.exists("Item", item_code):
 		if not update_existing:
-			return "skipped"
+			return "skipped", barcode_skipped
 		item = frappe.get_doc("Item", item_code)
 		for key, value in fields.items():
 			item.set(key, value)
-		_set_barcode(item, row.get("barcode"))
+		_set_barcode(item, barcode, item_code, used_barcodes)
 		item.save(ignore_permissions=True)
-		return "updated"
+		return "updated", barcode_skipped
 
 	item = frappe.get_doc({"doctype": "Item", "item_code": item_code, **fields})
-	_set_barcode(item, row.get("barcode"))
+	_set_barcode(item, barcode, item_code, used_barcodes)
 	item.insert(ignore_permissions=True)
-	return "created"
+	return "created", barcode_skipped
 
 
-def _set_barcode(item, barcode: str | None) -> None:
-	if not barcode:
+def _set_barcode(item, barcode: str | None, item_code: str, used_barcodes: set[str]) -> None:
+	if not _barcode_available(barcode or "", item_code, used_barcodes):
 		return
 	item.barcodes = []
 	item.append("barcodes", {"barcode": barcode})
+	used_barcodes.add(barcode)
 
 
 def _upsert_item_price(row: dict, price_list: str, company: str) -> None:
