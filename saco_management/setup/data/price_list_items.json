@@ -1,0 +1,2351 @@
+[
+  {
+    "brand": "FIABILA",
+    "item_code": "FL001",
+    "item_name": "SOAP ACNE&FRECKLE",
+    "net_weight": "80gm",
+    "carton_packing": "",
+    "price": 250.0,
+    "barcode": "8857101126120"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL002",
+    "item_name": "SOAP ACNE&DARKSPOT",
+    "net_weight": "80gm",
+    "carton_packing": "",
+    "price": 250.0,
+    "barcode": "8857101126137"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL003",
+    "item_name": "SOAP WHITENING",
+    "net_weight": "80gm",
+    "carton_packing": "",
+    "price": 250.0,
+    "barcode": "8857101126144"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL004",
+    "item_name": "SOAP ACNE&BLEACHING",
+    "net_weight": "80gm",
+    "carton_packing": "",
+    "price": 250.0,
+    "barcode": "8857101140010"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL005",
+    "item_name": "FACEWASH EXTRA WHITENING   (ORANGE)",
+    "net_weight": "100gm",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8857101140089"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL006",
+    "item_name": "FACEWASH ACNE OIL CONTROL  (PINK)",
+    "net_weight": "100gm",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8857101140119"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL007",
+    "item_name": "FACEWASH FIVE IN ONE               (BLUE)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8857101140102"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL008",
+    "item_name": "FACEWASH GOAT MILK                 (WHITE)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8857101150309"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL009",
+    "item_name": "SOAP WHITENING GOAT MILK",
+    "net_weight": "80gm",
+    "carton_packing": "",
+    "price": 250.0,
+    "barcode": "8857101150316"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL010",
+    "item_name": "SOAP ACNE CLEAR PLUS",
+    "net_weight": "80gm",
+    "carton_packing": "",
+    "price": 250.0,
+    "barcode": "8857101150323"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL019",
+    "item_name": "FACEWASH 10IN1 ACNE CLEAR    (GRAY)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8857101152006"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL020",
+    "item_name": "FACEWASH PIMPLE PROTECTION (RED)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8857101157186"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL023-1",
+    "item_name": "WAXING STRIPS BODY ALOEVERA",
+    "net_weight": "20 STRIPs",
+    "carton_packing": "",
+    "price": 340.0,
+    "barcode": "8901396364054"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL023-2",
+    "item_name": "WAXING STRIPS BODY ROSE",
+    "net_weight": "20 STRIPs",
+    "carton_packing": "",
+    "price": 340.0,
+    "barcode": "8901396364061"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL023-3",
+    "item_name": "WAXING STRIPS BODY LEMON",
+    "net_weight": "20 STRIPs",
+    "carton_packing": "",
+    "price": 340.0,
+    "barcode": "8901396364078"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL026",
+    "item_name": "WAXING PAPER ROLL SMALL",
+    "net_weight": "281gm",
+    "carton_packing": "",
+    "price": 640.0,
+    "barcode": "8452047129213"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL026M",
+    "item_name": "WAXING PAPER ROLL MEDIUM",
+    "net_weight": "420gm",
+    "carton_packing": "",
+    "price": 980.0,
+    "barcode": "6942560640262"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL027",
+    "item_name": "WAXING PAPER ROLL LARGE",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 1200.0,
+    "barcode": "8885542413158"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL028",
+    "item_name": "DEVELOPER 20VOL, 30VOL, 40VOL",
+    "net_weight": "500ml",
+    "carton_packing": "",
+    "price": 590.0,
+    "barcode": "6924833419027"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL029",
+    "item_name": "DEVELOPER 20VOL, 30VOL, 40VOL",
+    "net_weight": "1000ml",
+    "carton_packing": "",
+    "price": 890.0,
+    "barcode": "6924833419034"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL031",
+    "item_name": "DEVELOPER 20VOL",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 130.0,
+    "barcode": "7924833419019"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL033",
+    "item_name": "NOSE MASK BLACK HEAD B/CHARCOAL",
+    "net_weight": "60gm",
+    "carton_packing": "",
+    "price": 80.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL036-1",
+    "item_name": "BEAN WAX",
+    "net_weight": "100gm",
+    "carton_packing": "",
+    "price": 240.0,
+    "barcode": "8885542412564"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL037",
+    "item_name": "BEAUTY GEL 99% ALOEVERA (BOTTLE)",
+    "net_weight": "250gm",
+    "carton_packing": "",
+    "price": 440.0,
+    "barcode": "7986543658034"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL038N",
+    "item_name": "BEAUTY GEL 92% ALOEVERA (JAR)",
+    "net_weight": "150ml",
+    "carton_packing": "",
+    "price": 325.0,
+    "barcode": "6928577120386"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL038N",
+    "item_name": "BEAUTY GEL 92% ALOEVERA (JAR)",
+    "net_weight": "150gm",
+    "carton_packing": "",
+    "price": 270.0,
+    "barcode": "6928577120386"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL041",
+    "item_name": "GOLD COLLAGEN CRYSTAL MASK (JAR)",
+    "net_weight": "150gm",
+    "carton_packing": "",
+    "price": 120.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL049",
+    "item_name": "COTTON PUFF (4IN1)",
+    "net_weight": "1 PACKET",
+    "carton_packing": "",
+    "price": 130.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL059",
+    "item_name": "WAXING PAPER PATTI",
+    "net_weight": "100gm",
+    "carton_packing": "",
+    "price": 250.0,
+    "barcode": "8855424100100"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL061S",
+    "item_name": "HAIRSPRAY (GOLDEN) (S)",
+    "net_weight": "75ML",
+    "carton_packing": "",
+    "price": 170.0,
+    "barcode": "5414635086691"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL062",
+    "item_name": "FACEWASH WHITE & PORE MINIMIZING",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8857101159746"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL063",
+    "item_name": "FACEWASH ACNE DOUBLE WHITE",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8857101159753"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL064",
+    "item_name": "FACEWASH SUPER WHITE SMOOTHIE",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8857101159760"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL065",
+    "item_name": "HAIR SPRAY (S)",
+    "net_weight": "75ml",
+    "carton_packing": "",
+    "price": 170.0,
+    "barcode": "3605684454292"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL066",
+    "item_name": "HAIR SPRAY (M)",
+    "net_weight": "200ml",
+    "carton_packing": "",
+    "price": 280.0,
+    "barcode": "3605684454285"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL069",
+    "item_name": "BOTANIC MASKS D.CLEANSING  CHARCOAL (JAR)",
+    "net_weight": "150gm",
+    "carton_packing": "",
+    "price": 120.0,
+    "barcode": "6942560640691"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL0751",
+    "item_name": "BEAN WAX",
+    "net_weight": "500gm",
+    "carton_packing": "",
+    "price": 1150.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL081",
+    "item_name": "ALOE VERA GEL 99.5% (TUBE)",
+    "net_weight": "70gm",
+    "carton_packing": "",
+    "price": 160.0,
+    "barcode": "7986543650815"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL094",
+    "item_name": "STREAKING CAP PLASTIC",
+    "net_weight": "1 Pcs",
+    "carton_packing": "",
+    "price": 150.0,
+    "barcode": "7982900002700"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL095-1",
+    "item_name": "TIN WAXLIPO (STRAWBERRY)",
+    "net_weight": "400ML",
+    "carton_packing": "",
+    "price": 1490.0,
+    "barcode": "8857101150958"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL095-2",
+    "item_name": "TIN WAXLIPO (BANANA)",
+    "net_weight": "400ML",
+    "carton_packing": "",
+    "price": 1490.0,
+    "barcode": "8857101150989"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL095-3",
+    "item_name": "TIN WAXLIPO (ALOVERA)",
+    "net_weight": "400ML",
+    "carton_packing": "",
+    "price": 1490.0,
+    "barcode": "8857101150996"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL095-4",
+    "item_name": "TIN WAXLIPO (ORANGE)",
+    "net_weight": "400ML",
+    "carton_packing": "",
+    "price": 1490.0,
+    "barcode": "8857101150972"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL100",
+    "item_name": "ALOVERA SHAMPOO",
+    "net_weight": "300ml",
+    "carton_packing": "",
+    "price": 350.0,
+    "barcode": "7986543658034"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL101",
+    "item_name": "WHITE SPA LOTION",
+    "net_weight": "150ml",
+    "carton_packing": "",
+    "price": 225.0,
+    "barcode": "1494637712235"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL103",
+    "item_name": "STREAKING CAP RUBBER",
+    "net_weight": "1 PACKET",
+    "carton_packing": "",
+    "price": 390.0,
+    "barcode": "6009676040055"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL114",
+    "item_name": "CLEANSING (GOAT MILK) FAIR & WHITE",
+    "net_weight": "120ML",
+    "carton_packing": "",
+    "price": 195.0,
+    "barcode": "8857200300247"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL139",
+    "item_name": "CLEANSING LOTION (CUCUMBER)",
+    "net_weight": "150ML",
+    "carton_packing": "",
+    "price": 285.0,
+    "barcode": "8885542412533"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL142",
+    "item_name": "BLEACH POWDER (JAR)",
+    "net_weight": "300GM",
+    "carton_packing": "",
+    "price": 1050.0,
+    "barcode": "8885542412625"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL143",
+    "item_name": "BLEACH POWDER (JAR)",
+    "net_weight": "500GM",
+    "carton_packing": "",
+    "price": 1700.0,
+    "barcode": "8885542412625"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL148",
+    "item_name": "TALCUM POWDER ALLURE",
+    "net_weight": "200GM",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": "8855424100421"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL149",
+    "item_name": "TALCUM POWDER ELEGENCE",
+    "net_weight": "200GM",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": "8855424100414"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL150",
+    "item_name": "TALCUM POWDER ROMANCE",
+    "net_weight": "200GM",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": "8855424100407"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL151",
+    "item_name": "TALCUM POWDER FANTASY",
+    "net_weight": "200GM",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": "8855424100438"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL155",
+    "item_name": "ALOE VERA GEL  (TUBE) (NEW ARRIVAL)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 210.0,
+    "barcode": "8855424100438"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL156",
+    "item_name": "FACEWASH ALOEVERA HYDRATE  (NEW)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8852522224219"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL157",
+    "item_name": "FACEWASH PAPAYA DULL SKIN  (NEW)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8852522224226"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL162",
+    "item_name": "SHOWER BATH NET (STAR)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 210.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL165-1",
+    "item_name": "SHOWER GEL AROMA",
+    "net_weight": "250ml",
+    "carton_packing": "",
+    "price": 310.0,
+    "barcode": "8854176491221"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL165-2",
+    "item_name": "SHOWER GEL ALOEVERA",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 310.0,
+    "barcode": "8854176491214"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL165-3",
+    "item_name": "SHOWER GEL COCONUT",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 310.0,
+    "barcode": "8854176491283"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL165-4",
+    "item_name": "SHOWER GEL GRAPE",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 310.0,
+    "barcode": "8854176491245"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL171",
+    "item_name": "HAND AND FOOT CREAM HERBAL MOISTTURIZING",
+    "net_weight": "200ml",
+    "carton_packing": "",
+    "price": 280.0,
+    "barcode": "8850201379014"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL176",
+    "item_name": "FACEWASH LEMON & VIT C  (NEW)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8852522224233"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL177",
+    "item_name": "HAIR STYLING GEL (SOFT)",
+    "net_weight": "100gm",
+    "carton_packing": "",
+    "price": 195.0,
+    "barcode": "8852788049939"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL178",
+    "item_name": "HAIR STYLING GEL (SUPPER HARD)",
+    "net_weight": "100gm",
+    "carton_packing": "",
+    "price": 195.0,
+    "barcode": "8852788039657"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL179",
+    "item_name": "SUNBLOCK SPF-60 CREAM",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 340.0,
+    "barcode": "8852788049397"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL189",
+    "item_name": "SUNBLOCK URBAN SPF-60",
+    "net_weight": "120ml",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8855424100292"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL191N",
+    "item_name": "COTTON PUFF (04 PCS)",
+    "net_weight": "04 Pcs",
+    "carton_packing": "",
+    "price": 120.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL198",
+    "item_name": "SUNBLOCK SERUM-BOOSTER SPF-60 (NIACINAMIDE)",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 390.0,
+    "barcode": "855424100506"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL200",
+    "item_name": "EXTRA WHITENING LOTION",
+    "net_weight": "200ml",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": "8855629007990"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL203",
+    "item_name": "COSMETIC PUFF (02 PCS SET )",
+    "net_weight": "02 Pcs",
+    "carton_packing": "",
+    "price": 150.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL208",
+    "item_name": "FOOT FILER (WOOD OVAL)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 235.0,
+    "barcode": "4044217312156"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL209",
+    "item_name": "SOAP (CHARCOAL) ACNE+PIMPLE",
+    "net_weight": "80gm",
+    "carton_packing": "",
+    "price": 250.0,
+    "barcode": "8859362508547"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL213",
+    "item_name": "SHEET MASK VITAMIN C",
+    "net_weight": "25gm",
+    "carton_packing": "",
+    "price": 90.0,
+    "barcode": "4586795647560"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL214",
+    "item_name": "SHEET MASK ACNE 24GOLD",
+    "net_weight": "25gm",
+    "carton_packing": "",
+    "price": 90.0,
+    "barcode": "4586795647553"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL218",
+    "item_name": "FACE SERUM ACNE / TEA TREE",
+    "net_weight": "30ml",
+    "carton_packing": "",
+    "price": 430.0,
+    "barcode": "8852835166671"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL219",
+    "item_name": "FACE SERUM WHITENING",
+    "net_weight": "30ml",
+    "carton_packing": "",
+    "price": 430.0,
+    "barcode": "8852835165384"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL220",
+    "item_name": "FACE SERUM VITAMIN C",
+    "net_weight": "30ml",
+    "carton_packing": "",
+    "price": 430.0,
+    "barcode": "8852835166053"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL221",
+    "item_name": "FACEWASH DARKSPOT (WHIP)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 270.0,
+    "barcode": "8852835162475"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL223",
+    "item_name": "FACEWASH PERFACTWHITENING (WHIP)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 270.0,
+    "barcode": "8852835168149"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL224",
+    "item_name": "SILKY HAIR COAT (GINSENG)",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 770.0,
+    "barcode": "8855322986585"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL225",
+    "item_name": "SILKY HAIR COAT (ALOEVERA)",
+    "net_weight": "50ml",
+    "carton_packing": "",
+    "price": 470.0,
+    "barcode": "8855322984321"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL226",
+    "item_name": "SILKY HAIR COAT (BLACKSEED)",
+    "net_weight": "50ml",
+    "carton_packing": "",
+    "price": 470.0,
+    "barcode": "8855322973868"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL227",
+    "item_name": "SILKY HAIR COAT (WALNUT & ARGAN OIL)",
+    "net_weight": "50ml",
+    "carton_packing": "",
+    "price": 470.0,
+    "barcode": "8855322764725"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL229",
+    "item_name": "HAND & FOOT (GOAT MILK)",
+    "net_weight": "180 ML",
+    "carton_packing": "",
+    "price": 280.0,
+    "barcode": "8855424100308"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL231",
+    "item_name": "FACEWASH VITAMIN-C EXTRACT",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 370.0,
+    "barcode": "8855424100339"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL237",
+    "item_name": "SHEET MASK / SERUM",
+    "net_weight": "35gm",
+    "carton_packing": "",
+    "price": 140.0,
+    "barcode": "8659424582399"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL238",
+    "item_name": "SHEET MASK / SERUM",
+    "net_weight": "35gm",
+    "carton_packing": "",
+    "price": 140.0,
+    "barcode": "8659424582375"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL241",
+    "item_name": "BLEACH POWDER (BOTTLE)",
+    "net_weight": "50gm",
+    "carton_packing": "",
+    "price": 190.0,
+    "barcode": "9780201379624"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL244",
+    "item_name": "HAIR BAND PATTI",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 170.0,
+    "barcode": "9780201379624"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL245",
+    "item_name": "NAIL REMOVER WIPE",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 100.0,
+    "barcode": "860000117606"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL255",
+    "item_name": "SHOWER BATH NET (MULTI)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 170.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL256",
+    "item_name": "SHOWER BATH NET (FLOWER)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 180.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL257",
+    "item_name": "SHOWER BATH NET (FRUIT)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 185.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL258",
+    "item_name": "SHOWER BATH NET (PLAIN)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 200.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL259",
+    "item_name": "SHOWER BATH NET (CONE)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 230.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL260",
+    "item_name": "SHOWER BATH NET (PLAIN)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 155.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL261",
+    "item_name": "SHOWER BATH NET (DOUBLE COLOR)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 145.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL262",
+    "item_name": "SHOWER BATH NET (PINEAPPLE)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 230.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL263",
+    "item_name": "MAKE-UP FIXER LONG LASTING",
+    "net_weight": "100ml",
+    "carton_packing": "",
+    "price": 290.0,
+    "barcode": "8857101158275"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL286",
+    "item_name": "CLEANSING SPONGE (L)",
+    "net_weight": "1 PCS",
+    "carton_packing": "",
+    "price": 140.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL287",
+    "item_name": "SHOWER BATH NET (RIBBON END)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL288",
+    "item_name": "SHOWER BATH NET (FLOWER COTTON)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL289",
+    "item_name": "SHOWER BATH NET (PLAIN)",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 180.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL290",
+    "item_name": "FACE SERUM NIACINAMIDE",
+    "net_weight": "30ml",
+    "carton_packing": "",
+    "price": 430.0,
+    "barcode": "8855424100520"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL291",
+    "item_name": "SOAP VITAMIN C SERUM",
+    "net_weight": "80GM",
+    "carton_packing": "",
+    "price": 250.0,
+    "barcode": "8859362514203"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL292",
+    "item_name": "MAKEUP PUFF (3 IN 1) ROUND SHAPE",
+    "net_weight": "3 PCS",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL293",
+    "item_name": "MAKEUP PUFF (3 IN 1) ROUND SHAPE",
+    "net_weight": "3 PCS",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL294",
+    "item_name": "MAKEUP PUFF (3 IN 1) ROUND SHAPE",
+    "net_weight": "3 PCS",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL295",
+    "item_name": "MAKEUP PUFF (3 IN 1) ROUND SHAPE",
+    "net_weight": "3 PCS",
+    "carton_packing": "",
+    "price": 260.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL296",
+    "item_name": "MAKEUP PUFF (3 IN 1) HEART SHAPE",
+    "net_weight": "3 PCS",
+    "carton_packing": "",
+    "price": 120.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL297",
+    "item_name": "MAKEUP PUFF (3 IN 1) TRIANGLE",
+    "net_weight": "3 PCS",
+    "carton_packing": "",
+    "price": 110.0,
+    "barcode": ""
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL303",
+    "item_name": "TALCUM POWDER ALLURE",
+    "net_weight": "100GM",
+    "carton_packing": "",
+    "price": 155.0,
+    "barcode": "8885542412205"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL304",
+    "item_name": "TALCUM POWDER ELEGENCE",
+    "net_weight": "100GM",
+    "carton_packing": "",
+    "price": 155.0,
+    "barcode": "8885542412304"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL305",
+    "item_name": "TALCUM POWDER ROMANCE",
+    "net_weight": "100GM",
+    "carton_packing": "",
+    "price": 155.0,
+    "barcode": "8885542412403"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL306",
+    "item_name": "TALCUM POWDER FANTASY",
+    "net_weight": "100GM",
+    "carton_packing": "",
+    "price": 155.0,
+    "barcode": "8885542412502"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL307",
+    "item_name": "TALCUM POWDER (FRAGRANCE)",
+    "net_weight": "150GM",
+    "carton_packing": "",
+    "price": 220.0,
+    "barcode": "8885542412571"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL308",
+    "item_name": "TALCUM POWDER (COUNTRY)",
+    "net_weight": "150GM",
+    "carton_packing": "",
+    "price": 220.0,
+    "barcode": "8885542412588"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL309",
+    "item_name": "TALCUM POWDER (PRETYBLOM)",
+    "net_weight": "150GM",
+    "carton_packing": "",
+    "price": 220.0,
+    "barcode": "8885542412595"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL310",
+    "item_name": "TALCUM POWDER (CLASSIC)",
+    "net_weight": "150GM",
+    "carton_packing": "",
+    "price": 220.0,
+    "barcode": "8885542412601"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL311",
+    "item_name": "HAIR SPRAY (KERATIN)",
+    "net_weight": "75ML",
+    "carton_packing": "",
+    "price": 170.0,
+    "barcode": "8885542412618"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL312",
+    "item_name": "HAIR SPRAY (KERATIN)",
+    "net_weight": "200ml",
+    "carton_packing": "",
+    "price": 280.0,
+    "barcode": "8885542412519"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL313",
+    "item_name": "FACEWASH (Guyz2in1) MENs",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 390.0,
+    "barcode": "8855424100537"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL314",
+    "item_name": "FACEWASH (OIL BUSTER) MENs",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 390.0,
+    "barcode": "8855424100322"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL315",
+    "item_name": "FACEWASH (VIT-C&HYA) MENs",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 390.0,
+    "barcode": "8855424100513"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL316",
+    "item_name": "SHEET MASK RICEMILK",
+    "net_weight": "25gm",
+    "carton_packing": "",
+    "price": 90.0,
+    "barcode": "8885542412632"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL317",
+    "item_name": "FACE SERUM RICEMILK",
+    "net_weight": "30ml",
+    "carton_packing": "",
+    "price": 430.0,
+    "barcode": "8885542412649"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL319",
+    "item_name": "WAXING PAPER ROLL SMALL (made in italy)",
+    "net_weight": "281gm",
+    "carton_packing": "",
+    "price": 850.0,
+    "barcode": "8885542412724"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL320",
+    "item_name": "HAND & FOOT CREAM (RICE MILK)",
+    "net_weight": "180ML",
+    "carton_packing": "",
+    "price": 280.0,
+    "barcode": "8885542412670"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL322",
+    "item_name": "WAXING PAPER ROLL MEDIUM (made in italy)",
+    "net_weight": "420gm",
+    "carton_packing": "",
+    "price": 1160.0,
+    "barcode": "8885542412663"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL324",
+    "item_name": "LIPBALM (BLACK BERRY) FRUITY",
+    "net_weight": "6GM",
+    "carton_packing": "",
+    "price": 130.0,
+    "barcode": "8885542412700"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL325",
+    "item_name": "LIPBALM (CHERRY) FRUITY",
+    "net_weight": "6GM",
+    "carton_packing": "",
+    "price": 130.0,
+    "barcode": "8885542412724"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL326",
+    "item_name": "LIPBALM (STAWBERRY) FRUITY",
+    "net_weight": "6GM",
+    "carton_packing": "",
+    "price": 130.0,
+    "barcode": "8885542412731"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL327",
+    "item_name": "NAIL PAINT REMOVER (EXPRESS)",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 140.0,
+    "barcode": "8885542413004"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL328",
+    "item_name": "NAIL PAINT REMOVER (GENTLE)",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 140.0,
+    "barcode": "8885542413011"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL329",
+    "item_name": "NAIL PAINT REMOVER (ELEGANT)",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 140.0,
+    "barcode": "8885542413028"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL330",
+    "item_name": "NAIL PAINT REMOVER (ADVANCED)",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 140.0,
+    "barcode": "8885542413035"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL331",
+    "item_name": "FACEWASH BRIGHTENING CLEANSING GEL (VITAMIN-C)",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 320.0,
+    "barcode": "8885542413042"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL332",
+    "item_name": "FACEWASH FRESH ALOEVERA SOOTHING GEL",
+    "net_weight": "100ML",
+    "carton_packing": "",
+    "price": 320.0,
+    "barcode": "8885542413042"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL339",
+    "item_name": "FACE SERUM HYALURONIC B5",
+    "net_weight": "30ML",
+    "carton_packing": "",
+    "price": 430.0,
+    "barcode": "8885542413141"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL340",
+    "item_name": "BLEACH POWDER (25gm Bottle)",
+    "net_weight": "25GM",
+    "carton_packing": "",
+    "price": 125.0,
+    "barcode": "8885542413172"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL341",
+    "item_name": "DEVELOPER (12%40VOL) OXIDANTE",
+    "net_weight": "50ML",
+    "carton_packing": "",
+    "price": 110.0,
+    "barcode": "8885542413189"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "FL342",
+    "item_name": "MAKE-UP FIXER (SPF'60) SPRAY",
+    "net_weight": "120ML",
+    "carton_packing": "",
+    "price": 310.0,
+    "barcode": "8885542413196"
+  },
+  {
+    "brand": "FIABILA",
+    "item_code": "Updated as on",
+    "item_name": "2026-07-31 00:00:00",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 0,
+    "barcode": ""
+  },
+  {
+    "brand": "YC",
+    "item_code": "PK001",
+    "item_name": "Nourishing Cream",
+    "net_weight": "22gm",
+    "carton_packing": "576",
+    "price": 210.0,
+    "barcode": "8855322000595"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC001",
+    "item_name": "Whitening Cream",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8855322000380"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC002",
+    "item_name": "Acne-Melasma Cream",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8855322000373"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC006",
+    "item_name": "Whitening Herbal Soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 290.0,
+    "barcode": "8855322000328"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC007",
+    "item_name": "Hair Coat With Ginseng Root",
+    "net_weight": "125ml",
+    "carton_packing": "48",
+    "price": 950.0,
+    "barcode": "8855322000359"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC035",
+    "item_name": "Acne Facial Herbal Soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 320.0,
+    "barcode": "8857101110754"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC044",
+    "item_name": "Papaya Soap Double White  Plus",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 250.0,
+    "barcode": "8855322000588"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC051",
+    "item_name": "Extra Whitening Herbal Soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 300.0,
+    "barcode": "8857101111560"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC053-1",
+    "item_name": "Silky Hair Coat (AloeVera)",
+    "net_weight": "45ml",
+    "carton_packing": "144",
+    "price": 490.0,
+    "barcode": "8857101111812"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC053-2",
+    "item_name": "Silky Hair Coat (Chamomile)",
+    "net_weight": "45ml",
+    "carton_packing": "144",
+    "price": 490.0,
+    "barcode": "8857101111799"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC053-3",
+    "item_name": "Silky Hair Coat (Sunflower)",
+    "net_weight": "45ml",
+    "carton_packing": "144",
+    "price": 490.0,
+    "barcode": "8857101111836"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC061",
+    "item_name": "Cucumber Herbal Soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 250.0,
+    "barcode": "8857101115025"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC072",
+    "item_name": "Hair Repair Serum (New Packing)",
+    "net_weight": "30ml",
+    "carton_packing": "144",
+    "price": 490.0,
+    "barcode": "8857101115261"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC180",
+    "item_name": "Herbal Soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 250.0,
+    "barcode": "8857101120173"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC183",
+    "item_name": "Darkspot  Remover  Herbal Soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 250.0,
+    "barcode": "8857101120104"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC186",
+    "item_name": "Whitening Cream  New",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101119764"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC187",
+    "item_name": "Acne Cream    New",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101119771"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC218",
+    "item_name": "Milk Whitening Soap (Tin Pack)",
+    "net_weight": "100gm",
+    "carton_packing": "120",
+    "price": 390.0,
+    "barcode": "8857101125680"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC229",
+    "item_name": "Face wash Green Tea  ( Cool )",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8857101125376"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC230",
+    "item_name": "Face wash Cucumber  ( Mild )",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8857101125420"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC231",
+    "item_name": "Face wash Lemon        (Acne)",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8857101125390"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC234",
+    "item_name": "Face wash with Milky",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8857101125703"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC265",
+    "item_name": "Papaya Soap 4in1 Pure Herbal    (New)",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 285.0,
+    "barcode": "8857101125819"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC283",
+    "item_name": "Facial Fit Expert Face Wash (Pink Color)",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 450.0,
+    "barcode": "8857101129442"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC284",
+    "item_name": "Facial Fit Expert Face Wash (Blue Color)",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 450.0,
+    "barcode": "8857101129459"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC341",
+    "item_name": "Black Seed Herbal Soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 300.0,
+    "barcode": "8857101129480"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC342",
+    "item_name": "Papaya Black Seed Herbal Soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 285.0,
+    "barcode": "8857101129497"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC343",
+    "item_name": "Cucumber 4in1 Herbal Soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 300.0,
+    "barcode": "8857101129503"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC350",
+    "item_name": "Honey With Papaya  Herbal Soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 285.0,
+    "barcode": "8857101134194"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC385",
+    "item_name": "Whitening Pearl Herbal Soap",
+    "net_weight": "130gm",
+    "carton_packing": "144",
+    "price": 300.0,
+    "barcode": "8857101141529"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC391",
+    "item_name": "Facial wash Green Tea  ( Cool )",
+    "net_weight": "50ml",
+    "carton_packing": "240",
+    "price": 260.0,
+    "barcode": "8857101141222"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC392",
+    "item_name": "Facial wash Cucumber  ( Mild )",
+    "net_weight": "50ml",
+    "carton_packing": "240",
+    "price": 260.0,
+    "barcode": "8857101141239"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC393",
+    "item_name": "Facial wash Lemon        (Acne)",
+    "net_weight": "50ml",
+    "carton_packing": "240",
+    "price": 260.0,
+    "barcode": "8857101141246"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC394",
+    "item_name": "Face Wash with Milky",
+    "net_weight": "50ml",
+    "carton_packing": "240",
+    "price": 260.0,
+    "barcode": "8857101141253"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC399",
+    "item_name": "Hand & Foot Cream  (Green Box Pack)",
+    "net_weight": "200ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8857101150552"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC400",
+    "item_name": "Neem Face wash  (Small)",
+    "net_weight": "50ml",
+    "carton_packing": "240",
+    "price": 260.0,
+    "barcode": "8857101150644"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC403",
+    "item_name": "Zero-Frizz Hair Oil        ( New Arrival )",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 870.0,
+    "barcode": "8857101141475"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC409",
+    "item_name": "Breast Cream Enlargement",
+    "net_weight": "120ml",
+    "carton_packing": "96",
+    "price": 610.0,
+    "barcode": "8857101150361"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC410",
+    "item_name": "Breast Cream Firming",
+    "net_weight": "120ml",
+    "carton_packing": "96",
+    "price": 610.0,
+    "barcode": "8857101150378"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC428",
+    "item_name": "Milk & Youghurt Herbal soap",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 285.0,
+    "barcode": "8857101146081"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC431",
+    "item_name": "Neem Face wash",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8857101150651"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC433",
+    "item_name": "UV Sunblock",
+    "net_weight": "120ml",
+    "carton_packing": "96",
+    "price": 490.0,
+    "barcode": "8857101150859"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC439",
+    "item_name": "Whitening Facial Clay Mask  (New)",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 270.0,
+    "barcode": "8857101157148"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC457",
+    "item_name": "Whitening Cream Gold Caviar",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101157254"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC458",
+    "item_name": "Eye Cream  (New Packing )",
+    "net_weight": "20ml",
+    "carton_packing": "144",
+    "price": 440.0,
+    "barcode": "8855322000472"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC459",
+    "item_name": "Whitening Cream Diamond",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101157261"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC461",
+    "item_name": "Whitening Cream  Vitamin E & UV Protector",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101146616"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC463",
+    "item_name": "Acne Cream Viatmin C Plus",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101146630"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC464",
+    "item_name": "Whitening Fruity Cream UV Protection",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101146647"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC465",
+    "item_name": "Whitening Multi - Vitamin UV Portection",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101146654"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC483",
+    "item_name": "Whitening Facial Scrub Tube    (Apricot)",
+    "net_weight": "175ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8857101110150"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC484",
+    "item_name": "Whitening Facial Scrub Tube    (Avocado)",
+    "net_weight": "175ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8857101126083"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC485",
+    "item_name": "Whitening Facial Scrub Tube    (Raspberry)",
+    "net_weight": "175ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8857101126090"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC486",
+    "item_name": "Whitening Facial Scrub Tube    (Lemon&Honey)",
+    "net_weight": "175ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8857101111171"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC487",
+    "item_name": "Whitening Facial Scrub Tube    (Cucumber)",
+    "net_weight": "175ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8857101111188"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC488",
+    "item_name": "Whitening Facial Scrub Tube    (Papaya)",
+    "net_weight": "175ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8857101111164"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC489",
+    "item_name": "Whitening Facial Scrub Tube    (Cherry)",
+    "net_weight": "175ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8857101126106"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC499",
+    "item_name": "Hand & Foot Cream  (Pink  Box Pack)",
+    "net_weight": "200ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8857101155823"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC511",
+    "item_name": "Whitening Lotion (Diamond)",
+    "net_weight": "205ml",
+    "carton_packing": "72",
+    "price": 720.0,
+    "barcode": "8857101157209"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC512",
+    "item_name": "Peel off Mask  ( Diamond)",
+    "net_weight": "100ml",
+    "carton_packing": "96",
+    "price": 270.0,
+    "barcode": "8857101157230"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC534",
+    "item_name": "Sun Screen Cream UV90+ (Tube)",
+    "net_weight": "100ml",
+    "carton_packing": "96",
+    "price": 450.0,
+    "barcode": "8857101158060"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC538",
+    "item_name": "Face Wash With Bamboo Charcoal (New)",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8859362502446"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC540",
+    "item_name": "Peel Off Mask Bamboo Charcoal",
+    "net_weight": "100ml",
+    "carton_packing": "96",
+    "price": 510.0,
+    "barcode": "8857101159784"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC557",
+    "item_name": "Whitening Cream Dark Circle",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101158336"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC558",
+    "item_name": "Whitening Cream With Aloe Vera",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101158343"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC559",
+    "item_name": "Acne Cream With Black Sesame Seed",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8857101158350"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC566",
+    "item_name": "Cream Total Fairness Glow Pink",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8859362506819"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC567",
+    "item_name": "Cream Whitening Goat Milk Extract",
+    "net_weight": "04gm",
+    "carton_packing": "576",
+    "price": 90.0,
+    "barcode": "8859362506826"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC576",
+    "item_name": "LIP CARE (ESSENTIAL) ALEOVERA+VIT E",
+    "net_weight": "3.80gm",
+    "carton_packing": "240",
+    "price": 230.0,
+    "barcode": "8857101160094"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC577",
+    "item_name": "LIP CARE (SUN PROTECTION) ALEOVERA+VIT E",
+    "net_weight": "3.80gm",
+    "carton_packing": "240",
+    "price": 230.0,
+    "barcode": "8857101160087"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC578",
+    "item_name": "LIP CARE (FRUITY SHINE) ALEOVERA+VIT E",
+    "net_weight": "3.80gm",
+    "carton_packing": "240",
+    "price": 230.0,
+    "barcode": "8857101160179"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC579",
+    "item_name": "LIP CARE (PINK WHITENING) ALEOVERA+VIT E",
+    "net_weight": "3.80gm",
+    "carton_packing": "240",
+    "price": 230.0,
+    "barcode": "8857101160186"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC599",
+    "item_name": "Hand & Foot Cream (Gray Box Pack)",
+    "net_weight": "200ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8857101160582"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC626",
+    "item_name": "VITAMIN C SERUM",
+    "net_weight": "30ML",
+    "carton_packing": "96",
+    "price": 560.0,
+    "barcode": "8859362505584"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC639",
+    "item_name": "ACNE SERUM",
+    "net_weight": "30ml",
+    "carton_packing": "96",
+    "price": 560.0,
+    "barcode": "8859362506697"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC667",
+    "item_name": "Oil Control Men Face Wash (NEW)",
+    "net_weight": "100ml",
+    "carton_packing": "96",
+    "price": 450.0,
+    "barcode": "8859362502422"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC668",
+    "item_name": "Extra Whitening Men Face Wash (NEW)",
+    "net_weight": "100ml",
+    "carton_packing": "96",
+    "price": 450.0,
+    "barcode": "8859362502439"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC675",
+    "item_name": "Total Fairness Cream Multi Vitamin (NEW Packing)",
+    "net_weight": "50gm",
+    "carton_packing": "96",
+    "price": 340.0,
+    "barcode": "8857101150866"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC689",
+    "item_name": "FACE WASH PAPAYA",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8859362505386"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC688",
+    "item_name": "FACE SERUM (AlphaARBUTIN)",
+    "net_weight": "30ML",
+    "carton_packing": "144",
+    "price": 560.0,
+    "barcode": "8859362505621"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC690",
+    "item_name": "FACE WASH ALOE VERA",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8859362505393"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC699",
+    "item_name": "Hand & Foot Cream (Rice milk)",
+    "net_weight": "200ml",
+    "carton_packing": "96",
+    "price": 620.0,
+    "barcode": "8859362514821"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC709",
+    "item_name": "GREEN TEA SERUM",
+    "net_weight": "30ml",
+    "carton_packing": "144",
+    "price": 560.0,
+    "barcode": "8859362507243"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC725",
+    "item_name": "MILK PROTEIN SHOWER GEL",
+    "net_weight": "500ML",
+    "carton_packing": "36",
+    "price": 1050.0,
+    "barcode": "8859362508035"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC732",
+    "item_name": "PEEL OF MASK (CUCUMBER)",
+    "net_weight": "120ml",
+    "carton_packing": "96",
+    "price": 290.0,
+    "barcode": "8857101110198"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC739",
+    "item_name": "Face Wash Whitening Vitamin C (Orange Extract)",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8859362508509"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC741",
+    "item_name": "Peel off Mask (Lemon)",
+    "net_weight": "120ml",
+    "carton_packing": "96",
+    "price": 390.0,
+    "barcode": "8857101118446"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC746",
+    "item_name": "Peel off Mask (Papaya)",
+    "net_weight": "120ml",
+    "carton_packing": "96",
+    "price": 390.0,
+    "barcode": "8857101118491"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC747",
+    "item_name": "Peel off Mask (Orange)",
+    "net_weight": "120ml",
+    "carton_packing": "96",
+    "price": 450.0,
+    "barcode": "8857101118545"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC750",
+    "item_name": "MILK LOTION PUMP",
+    "net_weight": "250ml",
+    "carton_packing": "72",
+    "price": 790.0,
+    "barcode": "8857101140751"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC778",
+    "item_name": "Beauty Soap (Sulphur)",
+    "net_weight": "100gm",
+    "carton_packing": "144",
+    "price": 250.0,
+    "barcode": "8859362509094"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC785",
+    "item_name": "MILKYLOTION (PUMP)",
+    "net_weight": "250ml",
+    "carton_packing": "48",
+    "price": 790.0,
+    "barcode": "8859362508714"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC802",
+    "item_name": "Men Face Wash Bambo Charcoal",
+    "net_weight": "100ML",
+    "carton_packing": "96",
+    "price": 450.0,
+    "barcode": "8859362510380"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC901",
+    "item_name": "Face Wash (GOATMILK)",
+    "net_weight": "100ML",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8859362513039"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC926",
+    "item_name": "Sun Screen Cream UV50+ (KIDS) VITAMIN 'E",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 410.0,
+    "barcode": "8859362513756"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC927",
+    "item_name": "Sun Screen Cream UV50+ VITAMIN 'E",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 410.0,
+    "barcode": "8859362513763"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC928",
+    "item_name": "Sun Screen Cream UV60+ VITAMIN 'E",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 410.0,
+    "barcode": "8859362513770"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC929",
+    "item_name": "Sun Screen Cream UV70+ VITAMIN 'E",
+    "net_weight": "100ml",
+    "carton_packing": "144",
+    "price": 410.0,
+    "barcode": "8859362513787"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC939",
+    "item_name": "FACE WASH (S) MEN O/C 4IN1",
+    "net_weight": "50ML",
+    "carton_packing": "240",
+    "price": 225.0,
+    "barcode": "8859362513923"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC940",
+    "item_name": "FACE WASH (S) MEN E/W 6X",
+    "net_weight": "50ML",
+    "carton_packing": "240",
+    "price": 225.0,
+    "barcode": "8859362513930"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC946",
+    "item_name": "Beauty Soap (MILK EXTRACT)",
+    "net_weight": "130GM",
+    "carton_packing": "144",
+    "price": 280.0,
+    "barcode": "8859362513992"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC947",
+    "item_name": "Beauty Soap (NANO EXTRACT)",
+    "net_weight": "130GM",
+    "carton_packing": "144",
+    "price": 280.0,
+    "barcode": "8859362514005"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC948",
+    "item_name": "Beauty Soap (PAPAYA EXTRACT)",
+    "net_weight": "130GM",
+    "carton_packing": "144",
+    "price": 280.0,
+    "barcode": "8859362514012"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC949",
+    "item_name": "Beauty Soap (TURMERIC) EXTRACT",
+    "net_weight": "130GM",
+    "carton_packing": "144",
+    "price": 280.0,
+    "barcode": "8859362514029"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC950",
+    "item_name": "Beauty Soap (VITAMIN C)",
+    "net_weight": "130GM",
+    "carton_packing": "144",
+    "price": 280.0,
+    "barcode": "8859362514036"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC956",
+    "item_name": "FACE SERUM (GLUTATHIONE)",
+    "net_weight": "30ML",
+    "carton_packing": "144",
+    "price": 560.0,
+    "barcode": "8859362514043"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC957",
+    "item_name": "FACE SERUM (HYALURONIC)",
+    "net_weight": "30ML",
+    "carton_packing": "144",
+    "price": 560.0,
+    "barcode": "8859362514302"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC958",
+    "item_name": "FACE SERUM (KOJICACID)",
+    "net_weight": "30ML",
+    "carton_packing": "144",
+    "price": 560.0,
+    "barcode": "8859362514319"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC959",
+    "item_name": "FACE SERUM (NIACINAMIDE)",
+    "net_weight": "30ML",
+    "carton_packing": "144",
+    "price": 560.0,
+    "barcode": "8859362514326"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC998",
+    "item_name": "LOTION (MILK&GLUTA)",
+    "net_weight": "450ML",
+    "carton_packing": "24",
+    "price": 1190.0,
+    "barcode": "8859362516245"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC999",
+    "item_name": "LOTION (VITA 'C YOGURT)",
+    "net_weight": "450ML",
+    "carton_packing": "24",
+    "price": 1190.0,
+    "barcode": ""
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC1000",
+    "item_name": "LOTION (RICEMILK&ARBUTIN)",
+    "net_weight": "450GM",
+    "carton_packing": "24",
+    "price": 1190.0,
+    "barcode": "8859362516269"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC1002",
+    "item_name": "FACE WASH (RICEMILK)",
+    "net_weight": "100ML",
+    "carton_packing": "144",
+    "price": 400.0,
+    "barcode": "8859362516436"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC1004",
+    "item_name": "FACE WASH (MILK) 15 X SACHET",
+    "net_weight": "20ml",
+    "carton_packing": "15",
+    "price": 120.0,
+    "barcode": "8859362516450"
+  },
+  {
+    "brand": "YC",
+    "item_code": "YC1013",
+    "item_name": "FACE SERUM (RICEMILK)",
+    "net_weight": "30GM",
+    "carton_packing": "",
+    "price": 590.0,
+    "barcode": "8859362516689"
+  },
+  {
+    "brand": "YC",
+    "item_code": "Updated as on",
+    "item_name": "2026-07-28 00:00:00",
+    "net_weight": "",
+    "carton_packing": "",
+    "price": 0,
+    "barcode": ""
+  }
+]
